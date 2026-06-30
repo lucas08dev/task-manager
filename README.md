@@ -8,34 +8,45 @@ O programa permite ao usuário adicionar, visualizar e remover tarefas de uma li
 
 ## 🚀 Funcionalidades
 
-* Adicionar novas tarefas.
-* Listar todas as tarefas cadastradas.
-* Remover uma tarefa pelo número correspondente.
-* Encerrar o programa.
+- Adicionar novas tarefas.
+- Listar todas as tarefas cadastradas.
+- Remover uma tarefa pelo número correspondente.
+- Encerrar o programa.
 
 ## 🛠️ Tecnologias utilizadas
 
-* Python 3
+- Python 3
 
 ## 📚 Conceitos praticados
 
 Durante o desenvolvimento deste projeto foram utilizados os seguintes conceitos:
 
-* Variáveis
-* Listas
-* Estruturas condicionais (`if` e `elif`)
-* Laço de repetição (`while`)
-* Laço de repetição (`for`)
-* Entrada e saída de dados (`input` e `print`)
-* Manipulação de listas (`append` e `pop`)
-* Validação de dados
-* Lógica de programação
+- Variáveis
+- Listas
+- Estruturas condicionais (`if` e `elif`)
+- Laço de repetição (`while`)
+- Laço de repetição (`for`)
+- Entrada e saída de dados (`input` e `print`)
+- Manipulação de listas (`append` e `pop`)
+- Validação de dados
+- Lógica de programação
 
 ## ▶️ Como executar
 
 1. Certifique-se de ter o Python 3 instalado.
-2. Faça o download ou clone este repositório.
-3. Execute o arquivo principal com o comando:
+2. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+3. Acesse a pasta do projeto:
+
+```bash
+cd seu-repositorio
+```
+
+4. Execute o programa:
 
 ```bash
 python nome_do_arquivo.py
@@ -54,7 +65,7 @@ Ao iniciar o programa, será exibido o seguinte menu:
 
 ## 💡 Objetivo
 
-Este projeto foi desenvolvido com fins de estudo para reforçar conceitos básicos de Python e lógica de programação, servindo como base para projetos mais completos no futuro.
+Este projeto foi desenvolvido para praticar lógica de programação e os fundamentos da linguagem Python, servindo como base para projetos mais completos.
 
 ## 👨‍💻 Autor
 
